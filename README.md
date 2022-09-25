@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey! 👋
 
-<!--
-**Germandrummer92/germandrummer92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniel, and I am an experienced **Full-Stack Software Engineer**.
 
-Here are some ideas to get you started:
+I have worked professionally with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python 🐍 
+* TypeScript 🕸 + 🖧
+* Swift 🍏
+* Kotlin 🤖
+* Java 🤖 + 🖧
+
+I currently work for **[understand.ai](https://understand.ai)** a ml-first data-annotation product company. My title is Machine Learning Engineer, but I am contributing throughout the entire product: From computer vision models trained from scratch to web frontends.
+
+I enjoy any kind of technical challenges, and am especially passionate about 
